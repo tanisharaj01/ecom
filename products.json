@@ -1,0 +1,85 @@
+[
+    {
+        "id":1,
+        "name":"Deep V-Necked Maxi Dress",
+        "price":3000,
+        "image":"best1.jpg"
+    },
+
+    {
+        "id":2,
+        "name":"Off-Shoulder Mermaid Dress",
+        "price":2000,
+        "image":"best2.jpg"
+    },
+
+    {
+        "id":3,
+        "name":"Purple Sequencied Dress",
+        "price":3500,
+        "image":"best3.jpg"
+    },
+
+    {
+        "id":4,
+        "name":"Off-Shoulder Ruffed Dress",
+        "price":3000,
+        "image":"best10.jpg"
+    },
+
+    {
+        "id":5,
+        "name":"Bewitching Gold-Peach Lahenga",
+        "price":3000,
+        "image":"best4.jpg"
+    },
+
+    {
+        "id":6,
+        "name":"Black Indian Sharara",
+        "price":3000,
+        "image":"best5.jpg"
+    },
+
+    {
+        "id":7,
+        "name":"Stunning Blue Gown",
+        "price":3500,
+        "image":"best6.jpg"
+    },
+
+    {
+        "id":8,
+        "name":"Baby-Pink Georgette Long Dress",
+        "price":3000,
+        "image":"best11.jpg"
+    },
+
+    {
+        "id":9,
+        "name":"Blue Pre-Stiched Saree",
+        "price":3000,
+        "image":"best7.jpg"
+    },
+
+    {
+        "id":10,
+        "name":"Blue Dhoti Saree",
+        "price":2500,
+        "image":"best8.jpg"
+    },
+
+    {
+        "id":11,
+        "name":"Silk Designer Saree",
+        "price":3000,
+        "image":"best9.jpg"
+    },
+
+    {
+        "id":12,
+        "name":"Turquoise Blue Organza",
+        "price":3000,
+        "image":"best12.jpg"
+    }
+]
